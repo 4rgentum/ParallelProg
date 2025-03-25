@@ -1,0 +1,3 @@
+/home/dt/ParProg/lab4/task1-7/build/CMakeFiles/lab4task1-7.dir
+/home/dt/ParProg/lab4/task1-7/build/CMakeFiles/edit_cache.dir
+/home/dt/ParProg/lab4/task1-7/build/CMakeFiles/rebuild_cache.dir

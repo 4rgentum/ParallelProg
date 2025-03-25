@@ -1,0 +1,1 @@
+/usr/bin/cc "CMakeFiles/lab4task1-7.dir/lab4task1-7.c.o" -o lab4task1-7  /usr/lib/gcc/x86_64-linux-gnu/13/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a 
