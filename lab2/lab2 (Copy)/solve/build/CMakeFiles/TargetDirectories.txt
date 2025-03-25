@@ -1,0 +1,3 @@
+/home/dt/ParProg/lab2/solve/build/CMakeFiles/lab2.dir
+/home/dt/ParProg/lab2/solve/build/CMakeFiles/edit_cache.dir
+/home/dt/ParProg/lab2/solve/build/CMakeFiles/rebuild_cache.dir
