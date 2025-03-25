@@ -1,0 +1,4 @@
+/home/dt/ParProg/lab6/build/CMakeFiles/lab6omp.dir
+/home/dt/ParProg/lab6/build/CMakeFiles/lab6mpi.dir
+/home/dt/ParProg/lab6/build/CMakeFiles/edit_cache.dir
+/home/dt/ParProg/lab6/build/CMakeFiles/rebuild_cache.dir
